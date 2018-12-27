@@ -1,0 +1,4 @@
+1: mvc
+2: form validation (vee-validate)
+3: transitions & animations
+4: animate.css external library
